@@ -32,6 +32,7 @@ using namespace ns1;
 
 int main()
 {
+	cout << "Hello Git";
 	Foo f;
 	f.start();
 }
